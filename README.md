@@ -2,7 +2,8 @@
 
 ### I'm a Junior Full Stack developer
 
-### Connect with me: www.linkedin.com/in/edgardo-perez
+### Connect with me: 
+[<img align="left" alt="rafapuerta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] www.linkedin.com/in/edgardo-perez
 
 
 <!--
