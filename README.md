@@ -2,6 +2,9 @@
 
 ### I'm a Junior Full Stack developer
 
+### Connect with me: www.linkedin.com/in/edgardo-perez
+
+
 <!--
 **e-perez-k/e-perez-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
