@@ -1,6 +1,6 @@
 ### Hi there I'm Edgardo 👋
 
-** I'm a Junior Full Stack developer **
+### I'm a Junior Full Stack developer
 
 <!--
 **e-perez-k/e-perez-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
